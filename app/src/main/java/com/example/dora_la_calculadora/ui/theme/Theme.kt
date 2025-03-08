@@ -1,6 +1,5 @@
-package com.example.doralacalduladora.ui.theme
+package com.example.dora_la_calculadora.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

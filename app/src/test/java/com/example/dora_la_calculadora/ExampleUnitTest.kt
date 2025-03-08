@@ -1,4 +1,4 @@
-package com.example.doralacalduladora
+package com.example.dora_la_calculadora
 
 import org.junit.Test
 

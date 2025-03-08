@@ -1,4 +1,4 @@
-package com.example.doralacalduladora.ui.theme
+package com.example.dora_la_calculadora.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

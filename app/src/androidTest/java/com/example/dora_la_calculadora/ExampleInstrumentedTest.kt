@@ -1,4 +1,4 @@
-package com.example.doralacalduladora
+package com.example.dora_la_calculadora
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
